@@ -1,0 +1,725 @@
+[2026-01-30 13:51:48] Kernel initialized. Booting sequence started.
+[2026-01-30 13:52:00] Login successful.
+[2026-01-30 14:39:08] Kernel initialized. Booting sequence started.
+[2026-01-30 14:39:25] Login successful.
+[2026-01-30 14:43:06] User logged out.
+[2026-01-30 15:19:59] System configuration synchronized.
+[2026-01-30 15:19:59] ==========================================
+[2026-01-30 15:19:59] QUORI OS 10 KERNEL STARTUP: Q10-1769753999
+[2026-01-30 15:19:59] ==========================================
+[2026-01-30 15:20:09] Background monitor heartbeat: OK
+[2026-01-30 15:20:19] Security cleared.
+[2026-01-30 15:20:19] Background monitor heartbeat: OK
+[2026-01-30 15:20:29] Background monitor heartbeat: OK
+[2026-01-30 15:20:39] Background monitor heartbeat: OK
+[2026-01-30 15:20:49] Background monitor heartbeat: OK
+[2026-01-30 15:20:58] Process texteditor spawned.
+[2026-01-30 15:20:59] Background monitor heartbeat: OK
+[2026-01-30 15:23:08] System configuration synchronized.
+[2026-01-30 15:23:08] ==========================================
+[2026-01-30 15:23:08] QUORI OS 10 KERNEL STARTUP: Q10-1769754188
+[2026-01-30 15:23:08] ==========================================
+[2026-01-30 15:23:18] Background monitor heartbeat: OK
+[2026-01-30 15:23:28] Background monitor heartbeat: OK
+[2026-01-30 15:39:04] System configuration synchronized.
+[2026-01-30 15:39:04] ==========================================
+[2026-01-30 15:39:04] QUORI OS 10 KERNEL STARTUP: Q10-1769755144
+[2026-01-30 15:39:04] ==========================================
+[2026-01-30 15:39:14] Background monitor heartbeat: OK
+[2026-01-30 15:39:24] Background monitor heartbeat: OK
+[2026-01-30 15:39:34] Background monitor heartbeat: OK
+[2026-01-30 15:39:44] Background monitor heartbeat: OK
+[2026-01-30 15:39:54] Background monitor heartbeat: OK
+[2026-01-30 15:39:56] Security cleared.
+[2026-01-30 15:40:04] Background monitor heartbeat: OK
+[2026-01-30 15:40:14] Background monitor heartbeat: OK
+[2026-01-30 15:40:24] Background monitor heartbeat: OK
+[2026-01-30 15:40:34] Background monitor heartbeat: OK
+[2026-01-30 15:40:44] Background monitor heartbeat: OK
+[2026-01-30 15:40:54] Background monitor heartbeat: OK
+[2026-01-30 15:41:04] Background monitor heartbeat: OK
+[2026-01-30 15:41:14] Background monitor heartbeat: OK
+[2026-01-30 15:41:24] Background monitor heartbeat: OK
+[2026-01-30 15:41:34] Background monitor heartbeat: OK
+[2026-01-30 15:41:44] Background monitor heartbeat: OK
+[2026-01-30 15:41:54] Background monitor heartbeat: OK
+[2026-01-30 15:42:04] Background monitor heartbeat: OK
+[2026-01-30 15:42:14] Background monitor heartbeat: OK
+[2026-01-30 15:42:24] Background monitor heartbeat: OK
+[2026-01-30 15:42:34] Background monitor heartbeat: OK
+[2026-01-30 15:42:44] Background monitor heartbeat: OK
+[2026-01-30 16:04:38] Background monitor heartbeat: OK
+[2026-01-30 16:04:48] Background monitor heartbeat: OK
+[2026-01-30 16:04:58] Background monitor heartbeat: OK
+[2026-01-30 16:05:08] Background monitor heartbeat: OK
+[2026-01-30 16:05:18] Background monitor heartbeat: OK
+[2026-01-30 16:05:28] Background monitor heartbeat: OK
+[2026-01-30 16:05:38] Background monitor heartbeat: OK
+[2026-01-30 16:05:41] User logged out.
+[2026-01-30 16:05:48] Background monitor heartbeat: OK
+[2026-01-30 16:05:58] Background monitor heartbeat: OK
+[2026-01-30 16:06:08] Background monitor heartbeat: OK
+[2026-01-30 16:06:18] Background monitor heartbeat: OK
+[2026-01-30 16:06:28] Background monitor heartbeat: OK
+[2026-01-30 16:06:38] WARNING: Unauthorized access attempt.
+[2026-01-30 16:06:38] Background monitor heartbeat: OK
+[2026-01-30 16:06:42] Security cleared.
+[2026-01-30 16:06:48] Background monitor heartbeat: OK
+[2026-01-30 16:06:55] Process texteditor spawned.
+[2026-01-30 16:10:15] System configuration synchronized.
+[2026-01-30 16:10:15] ==========================================
+[2026-01-30 16:10:15] QUORI OS 10 KERNEL STARTUP: Q10-1769757015
+[2026-01-30 16:10:15] ==========================================
+[2026-01-30 16:10:25] Background monitor heartbeat: OK
+[2026-01-30 16:10:28] Security cleared.
+[2026-01-30 16:10:35] Background monitor heartbeat: OK
+[2026-01-30 16:10:45] Background monitor heartbeat: OK
+[2026-01-30 16:10:55] Background monitor heartbeat: OK
+[2026-01-30 16:11:05] Background monitor heartbeat: OK
+[2026-01-30 16:11:15] Background monitor heartbeat: OK
+[2026-01-30 16:11:25] Background monitor heartbeat: OK
+[2026-01-30 16:11:35] Background monitor heartbeat: OK
+[2026-01-30 16:11:45] Background monitor heartbeat: OK
+[2026-01-30 16:11:55] Background monitor heartbeat: OK
+[2026-01-30 16:12:05] Background monitor heartbeat: OK
+[2026-01-30 16:12:15] Background monitor heartbeat: OK
+[2026-01-30 16:12:25] Background monitor heartbeat: OK
+[2026-01-30 16:12:35] Background monitor heartbeat: OK
+[2026-01-30 16:12:45] Background monitor heartbeat: OK
+[2026-01-30 18:06:43] System configuration synchronized.
+[2026-01-30 18:06:43] ==========================================
+[2026-01-30 18:06:43] QUORI OS 10 KERNEL STARTUP: Q10-1769764003
+[2026-01-30 18:06:43] ==========================================
+[2026-01-30 18:06:53] Background monitor heartbeat: OK
+[2026-01-30 18:07:03] Background monitor heartbeat: OK
+[2026-01-30 18:07:04] Security cleared.
+[2026-01-30 18:07:13] Process appstore spawned.
+[2026-01-30 18:07:13] Background monitor heartbeat: OK
+[2026-01-30 18:07:23] Background monitor heartbeat: OK
+[2026-01-30 18:07:31] Process appstore spawned.
+[2026-01-30 18:07:33] Background monitor heartbeat: OK
+[2026-01-30 18:07:43] Background monitor heartbeat: OK
+[2026-01-30 18:07:53] Background monitor heartbeat: OK
+[2026-01-30 18:08:03] Background monitor heartbeat: OK
+[2026-01-30 18:08:13] Background monitor heartbeat: OK
+[2026-01-30 18:08:23] Background monitor heartbeat: OK
+[2026-01-30 18:08:33] Background monitor heartbeat: OK
+[2026-01-30 18:08:43] Background monitor heartbeat: OK
+[2026-01-30 18:08:53] Background monitor heartbeat: OK
+[2026-01-30 18:09:03] Background monitor heartbeat: OK
+[2026-01-30 18:09:13] Background monitor heartbeat: OK
+[2026-01-30 18:09:23] Background monitor heartbeat: OK
+[2026-01-30 18:09:33] Background monitor heartbeat: OK
+[2026-01-30 18:09:43] Background monitor heartbeat: OK
+[2026-01-30 18:09:53] Background monitor heartbeat: OK
+[2026-01-30 18:10:03] Background monitor heartbeat: OK
+[2026-01-30 18:10:13] Background monitor heartbeat: OK
+[2026-01-30 18:10:23] Background monitor heartbeat: OK
+[2026-01-30 18:10:33] Background monitor heartbeat: OK
+[2026-01-30 18:10:43] Background monitor heartbeat: OK
+[2026-01-30 18:10:53] Background monitor heartbeat: OK
+[2026-01-30 18:11:03] Background monitor heartbeat: OK
+[2026-01-30 18:11:13] Background monitor heartbeat: OK
+[2026-01-30 18:11:23] Background monitor heartbeat: OK
+[2026-01-30 18:11:33] Background monitor heartbeat: OK
+[2026-01-30 18:11:43] Background monitor heartbeat: OK
+[2026-01-30 18:11:53] Background monitor heartbeat: OK
+[2026-01-30 18:14:18] System configuration synchronized.
+[2026-01-30 18:14:18] ==========================================
+[2026-01-30 18:14:18] QUORI OS 10 KERNEL STARTUP: Q10-1769764458
+[2026-01-30 18:14:18] ==========================================
+[2026-01-30 18:14:28] Background monitor heartbeat: OK
+[2026-01-30 18:14:30] Security cleared.
+[2026-01-30 18:14:38] Background monitor heartbeat: OK
+[2026-01-30 18:14:39] Process Q-paint spawned.
+[2026-01-30 18:14:48] Background monitor heartbeat: OK
+[2026-01-30 18:14:58] Background monitor heartbeat: OK
+[2026-01-30 18:23:43] System configuration synchronized.
+[2026-01-30 18:23:43] ==========================================
+[2026-01-30 18:23:43] QUORI OS 10 KERNEL STARTUP: Q10-1769765023
+[2026-01-30 18:23:43] ==========================================
+[2026-01-30 18:23:53] Background monitor heartbeat: OK
+[2026-01-30 18:23:56] Security cleared.
+[2026-01-30 18:24:02] Process appstore spawned.
+[2026-01-30 18:24:03] Background monitor heartbeat: OK
+[2026-01-30 18:24:13] Background monitor heartbeat: OK
+[2026-01-30 18:24:23] Background monitor heartbeat: OK
+[2026-01-30 18:24:33] Background monitor heartbeat: OK
+[2026-01-30 18:24:42] System configuration synchronized.
+[2026-01-30 18:24:42] ==========================================
+[2026-01-30 18:24:42] QUORI OS 10 KERNEL STARTUP: Q10-1769765082
+[2026-01-30 18:24:42] ==========================================
+[2026-01-30 18:24:52] Background monitor heartbeat: OK
+[2026-01-30 18:24:54] Security cleared.
+[2026-01-30 18:25:02] Background monitor heartbeat: OK
+[2026-01-30 18:25:12] Background monitor heartbeat: OK
+[2026-01-30 18:25:22] Background monitor heartbeat: OK
+[2026-01-30 18:25:32] Background monitor heartbeat: OK
+[2026-01-30 18:25:42] Background monitor heartbeat: OK
+[2026-01-30 18:25:52] Background monitor heartbeat: OK
+[2026-01-30 18:26:02] Background monitor heartbeat: OK
+[2026-01-30 18:26:12] Background monitor heartbeat: OK
+[2026-01-30 18:26:22] Background monitor heartbeat: OK
+[2026-01-30 18:26:32] Background monitor heartbeat: OK
+[2026-01-30 18:26:42] Background monitor heartbeat: OK
+[2026-01-30 18:26:52] Background monitor heartbeat: OK
+[2026-01-30 18:27:02] Background monitor heartbeat: OK
+[2026-01-30 18:27:12] Background monitor heartbeat: OK
+[2026-01-30 18:27:21] Process appstore spawned.
+[2026-01-30 18:27:22] Background monitor heartbeat: OK
+[2026-01-30 18:27:32] Background monitor heartbeat: OK
+[2026-01-30 18:27:58] System configuration synchronized.
+[2026-01-30 18:27:58] ==========================================
+[2026-01-30 18:27:58] QUORI OS 10 KERNEL STARTUP: Q10-1769765278
+[2026-01-30 18:27:58] ==========================================
+[2026-01-30 18:28:08] Background monitor heartbeat: OK
+[2026-01-30 18:28:12] Security cleared.
+[2026-01-30 18:28:16] Process appstore spawned.
+[2026-01-30 18:28:18] Background monitor heartbeat: OK
+[2026-01-30 18:28:28] Background monitor heartbeat: OK
+[2026-01-30 18:28:38] Background monitor heartbeat: OK
+[2026-01-30 18:28:48] Background monitor heartbeat: OK
+[2026-01-30 18:28:58] Background monitor heartbeat: OK
+[2026-01-30 18:29:08] Background monitor heartbeat: OK
+[2026-01-30 18:29:28] System configuration synchronized.
+[2026-01-30 18:29:28] ==========================================
+[2026-01-30 18:29:28] QUORI OS 10 KERNEL STARTUP: Q10-1769765368
+[2026-01-30 18:29:28] ==========================================
+[2026-01-30 18:31:35] System configuration synchronized.
+[2026-01-30 18:31:35] ==========================================
+[2026-01-30 18:31:35] QUORI OS 10 KERNEL STARTUP: Q10-1769765495
+[2026-01-30 18:31:35] ==========================================
+[2026-01-30 18:31:45] Background monitor heartbeat: OK
+[2026-01-30 18:31:55] Background monitor heartbeat: OK
+[2026-01-30 18:32:05] Background monitor heartbeat: OK
+[2026-01-30 18:32:15] Background monitor heartbeat: OK
+[2026-01-30 18:32:25] Background monitor heartbeat: OK
+[2026-01-30 18:32:35] Background monitor heartbeat: OK
+[2026-01-30 18:32:42] Security cleared.
+[2026-01-30 18:32:45] Background monitor heartbeat: OK
+[2026-01-30 18:32:55] Background monitor heartbeat: OK
+[2026-01-30 18:33:05] Background monitor heartbeat: OK
+[2026-01-30 18:33:15] Background monitor heartbeat: OK
+[2026-01-30 18:33:25] Background monitor heartbeat: OK
+[2026-01-30 18:33:35] Background monitor heartbeat: OK
+[2026-01-30 18:33:45] Background monitor heartbeat: OK
+[2026-01-30 18:33:55] Background monitor heartbeat: OK
+[2026-01-30 18:34:05] Background monitor heartbeat: OK
+[2026-01-30 18:34:15] Background monitor heartbeat: OK
+[2026-01-30 18:34:25] Background monitor heartbeat: OK
+[2026-01-30 18:34:35] Background monitor heartbeat: OK
+[2026-01-30 18:34:45] Background monitor heartbeat: OK
+[2026-01-30 18:34:55] Background monitor heartbeat: OK
+[2026-01-30 18:35:05] Background monitor heartbeat: OK
+[2026-01-30 18:35:15] Background monitor heartbeat: OK
+[2026-01-30 18:35:25] Background monitor heartbeat: OK
+[2026-01-30 18:35:35] Background monitor heartbeat: OK
+[2026-01-30 18:35:45] Background monitor heartbeat: OK
+[2026-01-30 18:35:55] Background monitor heartbeat: OK
+[2026-01-30 18:36:05] Background monitor heartbeat: OK
+[2026-01-30 18:55:51] ---------------------------------------------
+[2026-01-30 18:55:51] KERNEL REBOOT INITIATED: Q10-1769766951
+[2026-01-30 18:55:51] ---------------------------------------------
+[2026-01-30 18:56:01] [HEARTBEAT] System Core Active.
+[2026-01-30 18:56:08] Login Successful.
+[2026-01-30 18:56:11] [HEARTBEAT] System Core Active.
+[2026-01-30 20:24:25] [HEARTBEAT] System Core Active.
+[2026-01-30 20:24:35] [HEARTBEAT] System Core Active.
+[2026-01-30 20:24:42] Launched module: appstore
+[2026-01-30 20:24:45] [HEARTBEAT] System Core Active.
+[2026-01-30 20:24:48] Launched module: qcp
+[2026-01-30 20:24:55] [HEARTBEAT] System Core Active.
+[2026-01-30 20:25:02] Launched module: qcp
+[2026-01-30 20:25:05] [HEARTBEAT] System Core Active.
+[2026-01-30 20:25:15] [HEARTBEAT] System Core Active.
+[2026-01-30 20:25:25] [HEARTBEAT] System Core Active.
+[2026-01-30 20:25:35] [HEARTBEAT] System Core Active.
+[2026-01-30 20:25:45] [HEARTBEAT] System Core Active.
+[2026-01-30 20:25:51] Desktop Extension: Load error - Expecting value: line 1 column 1 (char 0)
+[2026-01-30 20:25:53] Launched module: desktop_ext
+[2026-01-30 20:25:55] [HEARTBEAT] System Core Active.
+[2026-01-30 20:26:03] Desktop Extension: System state persisted.
+[2026-01-30 20:26:05] [HEARTBEAT] System Core Active.
+[2026-01-30 20:26:07] Launched module: npbrowser
+[2026-01-30 20:26:08] Launched module: npbrowser
+[2026-01-30 20:26:15] [HEARTBEAT] System Core Active.
+[2026-01-30 20:26:25] [HEARTBEAT] System Core Active.
+[2026-01-30 20:26:31] Launched module: explorer
+[2026-01-30 20:26:35] [HEARTBEAT] System Core Active.
+[2026-01-30 20:26:45] [HEARTBEAT] System Core Active.
+[2026-01-30 20:26:55] [HEARTBEAT] System Core Active.
+[2026-01-30 20:27:02] Desktop Extension: Data loaded successfully.
+[2026-01-30 20:27:02] Desktop Extension: System state persisted.
+[2026-01-30 20:27:02] Launched module: desktop_ext
+[2026-01-30 20:27:05] [HEARTBEAT] System Core Active.
+[2026-01-30 20:27:13] Launched module: explorer
+[2026-01-30 20:27:15] [HEARTBEAT] System Core Active.
+[2026-01-30 20:27:25] [HEARTBEAT] System Core Active.
+[2026-01-30 20:27:35] [HEARTBEAT] System Core Active.
+[2026-01-30 20:27:45] [HEARTBEAT] System Core Active.
+[2026-01-30 20:27:55] [HEARTBEAT] System Core Active.
+[2026-01-30 20:28:05] [HEARTBEAT] System Core Active.
+[2026-01-30 20:28:15] [HEARTBEAT] System Core Active.
+[2026-01-30 20:28:25] [HEARTBEAT] System Core Active.
+[2026-01-30 20:28:35] [HEARTBEAT] System Core Active.
+[2026-01-30 20:28:45] [HEARTBEAT] System Core Active.
+[2026-01-30 20:28:55] [HEARTBEAT] System Core Active.
+[2026-01-30 20:29:05] [HEARTBEAT] System Core Active.
+[2026-01-30 20:29:15] [HEARTBEAT] System Core Active.
+[2026-01-30 20:29:25] [HEARTBEAT] System Core Active.
+[2026-01-30 20:29:35] [HEARTBEAT] System Core Active.
+[2026-01-30 20:29:45] [HEARTBEAT] System Core Active.
+[2026-01-30 20:30:06] Background monitor heartbeat: OK
+[2026-01-30 20:31:53] Background monitor heartbeat: OK
+[2026-01-30 20:33:31] Background monitor heartbeat: OK
+[2026-01-30 20:33:41] Background monitor heartbeat: OK
+[2026-01-30 20:33:43] Process appstore spawned.
+[2026-01-30 20:33:51] Background monitor heartbeat: OK
+[2026-01-30 20:34:01] Background monitor heartbeat: OK
+[2026-01-30 20:34:01] Process appstore spawned.
+[2026-01-30 20:34:05] Process clock spawned.
+[2026-01-30 20:34:07] Desktop Extension: Data loaded successfully.
+[2026-01-30 20:34:08] Process desktop_ext spawned.
+[2026-01-30 20:34:11] Process explorer spawned.
+[2026-01-30 20:34:11] Background monitor heartbeat: OK
+[2026-01-30 20:34:14] Process npbrowser spawned.
+[2026-01-30 20:34:17] Process Q-paint spawned.
+[2026-01-30 20:34:21] Process sys_mon spawned.
+[2026-01-30 20:34:21] Background monitor heartbeat: OK
+[2026-01-30 20:34:25] Process texteditor spawned.
+[2026-01-30 20:34:31] Background monitor heartbeat: OK
+[2026-01-30 20:34:41] Background monitor heartbeat: OK
+[2026-01-30 20:34:51] Background monitor heartbeat: OK
+[2026-01-30 20:35:01] Background monitor heartbeat: OK
+[2026-01-30 20:35:11] Background monitor heartbeat: OK
+[2026-01-30 20:35:21] Background monitor heartbeat: OK
+[2026-01-30 20:35:31] Background monitor heartbeat: OK
+[2026-01-30 20:35:41] Background monitor heartbeat: OK
+[2026-01-30 20:35:42] Process qcp spawned.
+[2026-01-31 09:25:18] Background monitor heartbeat: OK
+[2026-01-31 09:25:29] Background monitor heartbeat: OK
+[2026-01-31 09:25:39] Background monitor heartbeat: OK
+[2026-01-31 09:25:49] Background monitor heartbeat: OK
+[2026-01-31 09:25:59] Background monitor heartbeat: OK
+[2026-01-31 09:26:09] Background monitor heartbeat: OK
+[2026-01-31 09:26:19] Background monitor heartbeat: OK
+[2026-01-31 09:26:29] Background monitor heartbeat: OK
+[2026-01-31 09:26:39] Background monitor heartbeat: OK
+[2026-01-31 09:26:49] Background monitor heartbeat: OK
+[2026-01-31 09:26:59] Background monitor heartbeat: OK
+[2026-01-31 09:27:09] Background monitor heartbeat: OK
+[2026-01-31 09:27:19] Background monitor heartbeat: OK
+[2026-01-31 09:27:50] Background monitor heartbeat: OK
+[2026-01-31 09:28:00] Background monitor heartbeat: OK
+[2026-01-31 09:28:10] Background monitor heartbeat: OK
+[2026-01-31 09:28:20] Background monitor heartbeat: OK
+[2026-01-31 09:28:30] Background monitor heartbeat: OK
+[2026-01-31 09:28:40] Background monitor heartbeat: OK
+[2026-01-31 09:28:50] Background monitor heartbeat: OK
+[2026-01-31 09:29:00] Background monitor heartbeat: OK
+[2026-01-31 09:29:10] Background monitor heartbeat: OK
+[2026-01-31 09:29:20] Background monitor heartbeat: OK
+[2026-01-31 09:29:30] Background monitor heartbeat: OK
+[2026-01-31 09:29:40] Background monitor heartbeat: OK
+[2026-01-31 09:29:50] Background monitor heartbeat: OK
+[2026-01-31 09:30:00] Background monitor heartbeat: OK
+[2026-01-31 09:30:10] Background monitor heartbeat: OK
+[2026-01-31 09:30:20] Background monitor heartbeat: OK
+[2026-01-31 09:30:30] Background monitor heartbeat: OK
+[2026-01-31 09:30:40] Background monitor heartbeat: OK
+[2026-01-31 09:30:50] Background monitor heartbeat: OK
+[2026-01-31 09:34:46] Background monitor heartbeat: OK
+[2026-01-31 09:34:56] Background monitor heartbeat: OK
+[2026-01-31 09:35:06] Background monitor heartbeat: OK
+[2026-01-31 09:35:16] Background monitor heartbeat: OK
+[2026-01-31 09:35:26] Background monitor heartbeat: OK
+[2026-01-31 09:35:36] Background monitor heartbeat: OK
+[2026-01-31 09:35:46] Background monitor heartbeat: OK
+[2026-01-31 09:35:56] Background monitor heartbeat: OK
+[2026-01-31 12:36:06] Background monitor heartbeat: OK
+[2026-01-31 12:36:16] Background monitor heartbeat: OK
+[2026-01-31 12:36:26] Background monitor heartbeat: OK
+[2026-01-31 20:44:35] Background monitor heartbeat: OK
+[2026-01-31 20:44:45] Background monitor heartbeat: OK
+[2026-01-31 20:44:55] Background monitor heartbeat: OK
+[2026-01-31 20:45:05] Background monitor heartbeat: OK
+[2026-01-31 20:45:15] Background monitor heartbeat: OK
+[2026-01-31 20:45:25] Background monitor heartbeat: OK
+[2026-01-31 20:45:35] Background monitor heartbeat: OK
+[2026-01-31 20:45:45] Background monitor heartbeat: OK
+[2026-01-31 20:45:55] Background monitor heartbeat: OK
+[2026-01-31 20:46:05] Background monitor heartbeat: OK
+[2026-01-31 20:46:15] Background monitor heartbeat: OK
+[2026-01-31 20:46:25] Background monitor heartbeat: OK
+[2026-01-31 20:46:35] Background monitor heartbeat: OK
+[2026-01-31 20:46:45] Background monitor heartbeat: OK
+[2026-01-31 20:46:55] Background monitor heartbeat: OK
+[2026-01-31 20:47:05] Background monitor heartbeat: OK
+[2026-01-31 20:47:15] Background monitor heartbeat: OK
+[2026-01-31 20:47:25] Background monitor heartbeat: OK
+[2026-01-31 20:47:35] Background monitor heartbeat: OK
+[2026-01-31 20:47:45] Background monitor heartbeat: OK
+[2026-01-31 20:47:55] Background monitor heartbeat: OK
+[2026-01-31 20:48:05] Background monitor heartbeat: OK
+[2026-01-31 20:48:15] Background monitor heartbeat: OK
+[2026-01-31 20:48:25] Background monitor heartbeat: OK
+[2026-01-31 20:48:35] Background monitor heartbeat: OK
+[2026-01-31 20:48:45] Background monitor heartbeat: OK
+[2026-01-31 20:48:55] Background monitor heartbeat: OK
+[2026-01-31 20:49:05] Background monitor heartbeat: OK
+[2026-01-31 20:49:15] Background monitor heartbeat: OK
+[2026-01-31 20:49:25] Background monitor heartbeat: OK
+[2026-01-31 20:49:35] Background monitor heartbeat: OK
+[2026-01-31 20:49:45] Background monitor heartbeat: OK
+[2026-01-31 20:49:55] Background monitor heartbeat: OK
+[2026-01-31 20:50:05] Background monitor heartbeat: OK
+[2026-01-31 20:50:15] Background monitor heartbeat: OK
+[2026-01-31 20:50:25] Background monitor heartbeat: OK
+[2026-01-31 20:50:35] Background monitor heartbeat: OK
+[2026-01-31 20:50:45] Background monitor heartbeat: OK
+[2026-01-31 20:50:55] Background monitor heartbeat: OK
+[2026-01-31 20:51:05] Background monitor heartbeat: OK
+[2026-01-31 20:51:15] Background monitor heartbeat: OK
+[2026-01-31 20:51:25] Background monitor heartbeat: OK
+[2026-01-31 20:51:35] Background monitor heartbeat: OK
+[2026-01-31 20:51:45] Background monitor heartbeat: OK
+[2026-01-31 20:51:55] Background monitor heartbeat: OK
+[2026-01-31 20:52:05] Background monitor heartbeat: OK
+[2026-01-31 20:52:15] Background monitor heartbeat: OK
+[2026-01-31 20:52:25] Background monitor heartbeat: OK
+[2026-01-31 20:52:35] Background monitor heartbeat: OK
+[2026-01-31 20:52:45] Background monitor heartbeat: OK
+[2026-01-31 20:52:55] Background monitor heartbeat: OK
+[2026-01-31 20:53:05] Background monitor heartbeat: OK
+[2026-01-31 20:53:15] Background monitor heartbeat: OK
+[2026-01-31 20:53:25] Background monitor heartbeat: OK
+[2026-01-31 20:53:35] Background monitor heartbeat: OK
+[2026-01-31 20:53:45] Background monitor heartbeat: OK
+[2026-01-31 20:53:56] Background monitor heartbeat: OK
+[2026-01-31 20:54:06] Background monitor heartbeat: OK
+[2026-01-31 20:54:16] Background monitor heartbeat: OK
+[2026-01-31 20:54:26] Background monitor heartbeat: OK
+[2026-01-31 20:54:36] Background monitor heartbeat: OK
+[2026-01-31 20:54:46] Background monitor heartbeat: OK
+[2026-01-31 20:54:56] Background monitor heartbeat: OK
+[2026-01-31 20:55:06] Background monitor heartbeat: OK
+[2026-01-31 20:55:16] Background monitor heartbeat: OK
+[2026-01-31 20:55:26] Background monitor heartbeat: OK
+[2026-01-31 20:55:36] Background monitor heartbeat: OK
+[2026-01-31 20:55:46] Background monitor heartbeat: OK
+[2026-01-31 20:55:49] Spawned: Q-paint
+[2026-01-31 20:55:56] Background monitor heartbeat: OK
+[2026-01-31 20:56:06] Background monitor heartbeat: OK
+[2026-01-31 20:56:16] Background monitor heartbeat: OK
+[2026-01-31 20:56:26] Background monitor heartbeat: OK
+[2026-01-31 20:56:36] Background monitor heartbeat: OK
+[2026-01-31 20:56:46] Background monitor heartbeat: OK
+[2026-01-31 20:56:56] Background monitor heartbeat: OK
+[2026-01-31 20:57:06] Background monitor heartbeat: OK
+[2026-01-31 20:57:16] Background monitor heartbeat: OK
+[2026-01-31 20:57:26] Background monitor heartbeat: OK
+[2026-01-31 20:57:36] Background monitor heartbeat: OK
+[2026-01-31 20:57:46] Background monitor heartbeat: OK
+[2026-01-31 20:57:56] Background monitor heartbeat: OK
+[2026-01-31 20:58:06] Background monitor heartbeat: OK
+[2026-01-31 20:58:17] Background monitor heartbeat: OK
+[2026-01-31 20:58:27] Background monitor heartbeat: OK
+[2026-01-31 20:58:37] Background monitor heartbeat: OK
+[2026-01-31 20:58:47] Background monitor heartbeat: OK
+[2026-01-31 20:58:57] Background monitor heartbeat: OK
+[2026-01-31 20:59:07] Background monitor heartbeat: OK
+[2026-01-31 20:59:17] Background monitor heartbeat: OK
+[2026-01-31 20:59:27] Background monitor heartbeat: OK
+[2026-01-31 20:59:37] Background monitor heartbeat: OK
+[2026-01-31 20:59:47] Background monitor heartbeat: OK
+[2026-01-31 20:59:57] Background monitor heartbeat: OK
+[2026-01-31 21:00:07] Background monitor heartbeat: OK
+[2026-01-31 21:00:17] Background monitor heartbeat: OK
+[2026-01-31 21:00:27] Background monitor heartbeat: OK
+[2026-01-31 21:00:37] Background monitor heartbeat: OK
+[2026-01-31 21:00:47] Background monitor heartbeat: OK
+[2026-01-31 21:00:57] Background monitor heartbeat: OK
+[2026-01-31 21:01:07] Background monitor heartbeat: OK
+[2026-01-31 21:01:17] Background monitor heartbeat: OK
+[2026-01-31 21:01:27] Background monitor heartbeat: OK
+[2026-01-31 21:01:37] Background monitor heartbeat: OK
+[2026-01-31 21:01:47] Background monitor heartbeat: OK
+[2026-01-31 21:01:57] Background monitor heartbeat: OK
+[2026-01-31 21:02:07] Background monitor heartbeat: OK
+[2026-01-31 21:02:17] Background monitor heartbeat: OK
+[2026-01-31 21:02:27] Background monitor heartbeat: OK
+[2026-01-31 21:02:37] Background monitor heartbeat: OK
+[2026-01-31 21:02:47] Background monitor heartbeat: OK
+[2026-01-31 21:02:57] Background monitor heartbeat: OK
+[2026-01-31 21:03:07] Background monitor heartbeat: OK
+[2026-01-31 21:03:17] Background monitor heartbeat: OK
+[2026-01-31 21:03:27] Background monitor heartbeat: OK
+[2026-01-31 21:03:37] Background monitor heartbeat: OK
+[2026-01-31 21:03:48] Background monitor heartbeat: OK
+[2026-01-31 21:03:58] Background monitor heartbeat: OK
+[2026-01-31 21:04:08] Background monitor heartbeat: OK
+[2026-01-31 21:04:18] Background monitor heartbeat: OK
+[2026-01-31 21:04:28] Background monitor heartbeat: OK
+[2026-01-31 21:04:38] Background monitor heartbeat: OK
+[2026-01-31 21:04:48] Background monitor heartbeat: OK
+[2026-01-31 21:04:58] Background monitor heartbeat: OK
+[2026-01-31 21:05:08] Background monitor heartbeat: OK
+[2026-01-31 21:05:18] Background monitor heartbeat: OK
+[2026-01-31 21:05:28] Background monitor heartbeat: OK
+[2026-01-31 21:05:38] Background monitor heartbeat: OK
+[2026-01-31 21:05:48] Background monitor heartbeat: OK
+[2026-01-31 21:05:58] Background monitor heartbeat: OK
+[2026-01-31 21:06:01] Process sys_mon spawned.
+[2026-01-31 21:06:08] Background monitor heartbeat: OK
+[2026-01-31 21:06:18] Background monitor heartbeat: OK
+[2026-01-31 21:06:28] Background monitor heartbeat: OK
+[2026-01-31 21:06:38] Background monitor heartbeat: OK
+[2026-01-31 21:06:41] Process Q-paint spawned.
+[2026-01-31 21:06:48] Background monitor heartbeat: OK
+[2026-01-31 21:06:58] Background monitor heartbeat: OK
+[2026-01-31 21:07:08] Background monitor heartbeat: OK
+[2026-01-31 21:07:18] Background monitor heartbeat: OK
+[2026-01-31 21:07:28] Background monitor heartbeat: OK
+[2026-01-31 21:07:38] Background monitor heartbeat: OK
+[2026-01-31 21:07:48] Background monitor heartbeat: OK
+[2026-01-31 21:07:58] Background monitor heartbeat: OK
+[2026-01-31 21:08:08] Background monitor heartbeat: OK
+[2026-01-31 21:08:18] Background monitor heartbeat: OK
+[2026-01-31 21:08:28] Background monitor heartbeat: OK
+[2026-01-31 21:08:38] Background monitor heartbeat: OK
+[2026-01-31 21:08:48] Background monitor heartbeat: OK
+[2026-01-31 21:08:58] Background monitor heartbeat: OK
+[2026-01-31 21:09:03] App Launched: Q-paint
+[2026-01-31 21:09:06] App Launched: appstore
+[2026-01-31 21:09:08] Background monitor heartbeat: OK
+[2026-01-31 21:09:09] App Launched: clock
+[2026-01-31 21:09:11] Desktop Extension: Data loaded successfully.
+[2026-01-31 21:09:11] App Launched: desktop_ext
+[2026-01-31 21:09:15] App Launched: explorer
+[2026-01-31 21:09:18] Background monitor heartbeat: OK
+[2026-01-31 21:09:21] App Launched: explorer
+[2026-01-31 21:09:23] App Launched: npbrowser
+[2026-01-31 21:09:27] App Launched: qcp
+[2026-01-31 21:09:28] Background monitor heartbeat: OK
+[2026-01-31 21:09:31] App Launched: sys_mon
+[2026-01-31 21:09:33] App Launched: texteditor
+[2026-01-31 21:09:38] Background monitor heartbeat: OK
+[2026-01-31 21:09:48] Background monitor heartbeat: OK
+[2026-01-31 21:09:58] Background monitor heartbeat: OK
+[2026-01-31 21:10:08] Background monitor heartbeat: OK
+[2026-01-31 21:10:18] Background monitor heartbeat: OK
+[2026-01-31 21:10:28] Background monitor heartbeat: OK
+[2026-01-31 21:10:38] Background monitor heartbeat: OK
+[2026-01-31 21:10:48] Background monitor heartbeat: OK
+[2026-01-31 21:10:58] Background monitor heartbeat: OK
+[2026-01-31 21:11:08] Background monitor heartbeat: OK
+[2026-01-31 21:11:18] Background monitor heartbeat: OK
+[2026-01-31 21:11:28] Background monitor heartbeat: OK
+[2026-01-31 21:11:38] Background monitor heartbeat: OK
+[2026-01-31 21:11:48] Background monitor heartbeat: OK
+[2026-01-31 21:11:58] Background monitor heartbeat: OK
+[2026-01-31 21:12:08] Background monitor heartbeat: OK
+[2026-01-31 21:12:18] Background monitor heartbeat: OK
+[2026-01-31 21:12:28] Background monitor heartbeat: OK
+[2026-01-31 21:12:38] Background monitor heartbeat: OK
+[2026-01-31 21:12:49] Background monitor heartbeat: OK
+[2026-01-31 21:12:59] Background monitor heartbeat: OK
+[2026-01-31 21:13:09] Background monitor heartbeat: OK
+[2026-01-31 21:13:19] Background monitor heartbeat: OK
+[2026-01-31 21:13:29] Background monitor heartbeat: OK
+[2026-01-31 21:13:39] Background monitor heartbeat: OK
+[2026-01-31 21:13:49] Background monitor heartbeat: OK
+[2026-01-31 21:13:59] Background monitor heartbeat: OK
+[2026-01-31 21:14:09] Background monitor heartbeat: OK
+[2026-01-31 21:14:19] Background monitor heartbeat: OK
+[2026-01-31 21:14:29] Background monitor heartbeat: OK
+[2026-02-01 18:34:41] System configuration persisted to disk.
+[2026-02-01 18:38:43] System state persisted successfully via API.
+[2026-02-01 18:41:38] System config loaded successfully.
+[2026-02-01 18:42:09] Desktop Extension: Data loaded successfully.
+[2026-02-01 18:45:50] System config loaded successfully.
+[2026-02-01 18:54:02] System config loaded successfully.
+[2026-02-02 09:37:03] System config loaded successfully.
+[2026-02-02 10:24:48] System loaded in normal mode.
+[2026-02-02 15:07:08] System loaded in normal mode.
+[2026-02-02 17:54:12] System loaded in normal mode.
+[2026-02-02 18:01:26] Mode synchronized: normal
+[2026-02-02 18:01:26] --- KERNEL INITIALIZED: SESSION Q11P-1770022886 ---
+[2026-02-02 18:01:40] Module 'setting' invoked successfully.
+[2026-02-02 18:08:29] Module 'setting' invoked successfully.
+[2026-02-02 18:37:18] Module 'setting' invoked successfully.
+[2026-02-02 18:39:50] Module 'setting' invoked successfully.
+[2026-02-02 18:40:00] Module 'setting' invoked successfully.
+2026-02-02 18:49:38,546 [INFO] Kernel 11.5.0.PRO-ULTIMATE initialized.
+2026-02-02 18:49:38,547 [INFO] Dynamic Boot: Loading PRO Logo
+2026-02-02 18:49:38,596 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 18:49:38,596 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-02 18:49:38,597 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-02 18:49:38,597 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-02 18:49:38,597 [DEBUG] STREAM b'IDAT' 1513 103961
+2026-02-02 18:49:52,584 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 18:49:52,584 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-02 18:49:52,584 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-02 18:49:52,584 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-02 18:49:52,585 [DEBUG] STREAM b'IDAT' 1513 107806
+2026-02-02 18:49:52,611 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 18:49:52,611 [DEBUG] STREAM b'caBX' 41 14606
+2026-02-02 18:49:52,611 [DEBUG] b'caBX' 41 14606 (unknown)
+2026-02-02 18:49:52,611 [DEBUG] STREAM b'IDAT' 14659 8192
+2026-02-02 18:50:23,054 [INFO] Kernel 11.5.0.PRO-ULTIMATE initialized.
+2026-02-02 18:50:23,059 [INFO] Dynamic Boot: Loading Normal Logo
+2026-02-02 18:50:23,102 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 18:50:23,102 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-02 18:50:23,102 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-02 18:50:23,103 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-02 18:50:23,103 [DEBUG] STREAM b'IDAT' 1513 95532
+2026-02-02 18:50:38,216 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 18:50:38,216 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-02 18:50:38,217 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-02 18:50:38,217 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-02 18:50:38,217 [DEBUG] STREAM b'IDAT' 1513 107806
+2026-02-02 18:50:38,242 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 18:50:38,242 [DEBUG] STREAM b'caBX' 41 14606
+2026-02-02 18:50:38,243 [DEBUG] b'caBX' 41 14606 (unknown)
+2026-02-02 18:50:38,243 [DEBUG] STREAM b'IDAT' 14659 8192
+2026-02-02 18:59:58,112 [INFO] Kernel 11.5.0.PRO-ULTIMATE initialized.
+2026-02-02 18:59:58,165 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 18:59:58,166 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-02 18:59:58,166 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-02 18:59:58,166 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-02 18:59:58,166 [DEBUG] STREAM b'IDAT' 1513 95532
+2026-02-02 19:00:09,490 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 19:00:09,490 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-02 19:00:09,490 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-02 19:00:09,491 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-02 19:00:09,491 [DEBUG] STREAM b'IDAT' 1513 107806
+2026-02-02 19:00:09,531 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 19:00:09,532 [DEBUG] STREAM b'caBX' 41 14606
+2026-02-02 19:00:09,532 [DEBUG] b'caBX' 41 14606 (unknown)
+2026-02-02 19:00:09,532 [DEBUG] STREAM b'IDAT' 14659 8192
+2026-02-02 19:01:19,533 [INFO] Kernel 11.5.0.PRO-ULTIMATE initialized.
+2026-02-02 19:01:19,574 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 19:01:19,574 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-02 19:01:19,575 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-02 19:01:19,575 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-02 19:01:19,575 [DEBUG] STREAM b'IDAT' 1513 103961
+2026-02-02 19:01:30,659 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 19:01:30,659 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-02 19:01:30,659 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-02 19:01:30,660 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-02 19:01:30,660 [DEBUG] STREAM b'IDAT' 1513 107806
+2026-02-02 19:01:30,684 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 19:01:30,684 [DEBUG] STREAM b'caBX' 41 14606
+2026-02-02 19:01:30,685 [DEBUG] b'caBX' 41 14606 (unknown)
+2026-02-02 19:01:30,685 [DEBUG] STREAM b'IDAT' 14659 8192
+2026-02-02 19:06:55,427 [INFO] Kernel 11.5.0.PRO-ULTIMATE initialized.
+2026-02-02 19:06:55,536 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 19:06:55,536 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-02 19:06:55,536 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-02 19:06:55,537 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-02 19:06:55,537 [DEBUG] STREAM b'IDAT' 1513 103961
+2026-02-02 19:07:09,455 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 19:07:09,456 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-02 19:07:09,456 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-02 19:07:09,456 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-02 19:07:09,456 [DEBUG] STREAM b'IDAT' 1513 107806
+2026-02-02 19:07:09,507 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-02 19:07:09,507 [DEBUG] STREAM b'caBX' 41 14606
+2026-02-02 19:07:09,507 [DEBUG] b'caBX' 41 14606 (unknown)
+2026-02-02 19:07:09,507 [DEBUG] STREAM b'IDAT' 14659 8192
+2026-02-03 08:35:27,060 [INFO] Kernel 11.5.0.PRO-ULTIMATE initialized.
+2026-02-03 08:35:27,696 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 08:35:27,697 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 08:35:27,697 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 08:35:27,697 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 08:35:27,697 [DEBUG] STREAM b'IDAT' 1513 103961
+2026-02-03 08:37:47,020 [INFO] Kernel 11.5.0.PRO-ULTIMATE initialized.
+2026-02-03 08:37:47,068 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 08:37:47,069 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 08:37:47,069 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 08:37:47,070 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 08:37:47,070 [DEBUG] STREAM b'IDAT' 1513 103961
+2026-02-03 08:38:00,736 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 08:38:00,737 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 08:38:00,737 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 08:38:00,737 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 08:38:00,737 [DEBUG] STREAM b'IDAT' 1513 107806
+2026-02-03 08:38:00,828 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 08:38:00,829 [DEBUG] STREAM b'caBX' 41 14606
+2026-02-03 08:38:00,829 [DEBUG] b'caBX' 41 14606 (unknown)
+2026-02-03 08:38:00,829 [DEBUG] STREAM b'IDAT' 14659 8192
+2026-02-03 08:48:46,847 [INFO] Kernel 11.5.0.PRO-ULTIMATE initialized.
+2026-02-03 08:48:47,472 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 08:48:47,472 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 08:48:47,472 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 08:48:47,472 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 08:48:47,473 [DEBUG] STREAM b'IDAT' 1513 95532
+2026-02-03 08:57:58,973 [INFO] Kernel 11.5.0.PRO-ULTIMATE initialized.
+2026-02-03 08:57:59,005 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 08:57:59,005 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 08:57:59,005 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 08:57:59,006 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 08:57:59,006 [DEBUG] STREAM b'IDAT' 1513 95532
+2026-02-03 08:59:24,172 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 08:59:24,172 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 08:59:24,172 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 08:59:24,172 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 08:59:24,173 [DEBUG] STREAM b'IDAT' 1513 107806
+2026-02-03 08:59:24,222 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 08:59:24,222 [DEBUG] STREAM b'caBX' 41 14606
+2026-02-03 08:59:24,223 [DEBUG] b'caBX' 41 14606 (unknown)
+2026-02-03 08:59:24,223 [DEBUG] STREAM b'IDAT' 14659 8192
+2026-02-03 09:17:06,619 [INFO] Kernel 11.5.0.PRO-ULTIMATE initialized.
+2026-02-03 09:17:06,735 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 09:17:06,735 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 09:17:06,735 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 09:17:06,735 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 09:17:06,736 [DEBUG] STREAM b'IDAT' 1513 103961
+2026-02-03 09:17:25,677 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 09:17:25,678 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 09:17:25,678 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 09:17:25,678 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 09:17:25,678 [DEBUG] STREAM b'IDAT' 1513 107806
+2026-02-03 09:17:25,704 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 09:17:25,704 [DEBUG] STREAM b'caBX' 41 14606
+2026-02-03 09:17:25,705 [DEBUG] b'caBX' 41 14606 (unknown)
+2026-02-03 09:17:25,705 [DEBUG] STREAM b'IDAT' 14659 8192
+2026-02-03 09:24:37,071 [INFO] Kernel 11.5.0.PRO-ULTIMATE initialized.
+2026-02-03 09:24:37,108 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 09:24:37,108 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 09:24:37,109 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 09:24:37,109 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 09:24:37,109 [DEBUG] STREAM b'IDAT' 1513 103961
+2026-02-03 09:24:48,194 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 09:24:48,195 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 09:24:48,195 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 09:24:48,195 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 09:24:48,195 [DEBUG] STREAM b'IDAT' 1513 107806
+2026-02-03 09:24:48,220 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 09:24:48,221 [DEBUG] STREAM b'caBX' 41 14606
+2026-02-03 09:24:48,221 [DEBUG] b'caBX' 41 14606 (unknown)
+2026-02-03 09:24:48,221 [DEBUG] STREAM b'IDAT' 14659 8192
+2026-02-03 09:59:18,599 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 09:59:18,599 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 09:59:18,600 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 09:59:18,600 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 09:59:18,600 [DEBUG] STREAM b'IDAT' 1513 107806
+2026-02-03 09:59:18,648 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 09:59:18,648 [DEBUG] STREAM b'caBX' 41 14606
+2026-02-03 09:59:18,648 [DEBUG] b'caBX' 41 14606 (unknown)
+2026-02-03 09:59:18,648 [DEBUG] STREAM b'IDAT' 14659 8192
+2026-02-03 09:59:26,637 [INFO] Kernel 11.5.0.PRO-ULTIMATE initialized.
+2026-02-03 09:59:26,674 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 09:59:26,674 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 09:59:26,674 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 09:59:26,674 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 09:59:26,675 [DEBUG] STREAM b'IDAT' 1513 103961
+2026-02-03 09:59:38,370 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 09:59:38,370 [DEBUG] STREAM b'pHYs' 41 9
+2026-02-03 09:59:38,371 [DEBUG] STREAM b'iTXt' 62 1349
+2026-02-03 09:59:38,371 [DEBUG] STREAM b'eXIf' 1423 78
+2026-02-03 09:59:38,371 [DEBUG] STREAM b'IDAT' 1513 107806
+2026-02-03 09:59:38,394 [DEBUG] STREAM b'IHDR' 16 13
+2026-02-03 09:59:38,395 [DEBUG] STREAM b'caBX' 41 14606
+2026-02-03 09:59:38,395 [DEBUG] b'caBX' 41 14606 (unknown)
+2026-02-03 09:59:38,395 [DEBUG] STREAM b'IDAT' 14659 8192

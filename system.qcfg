@@ -1,0 +1,13 @@
+{
+    "users": {
+        "quoris": {
+            "name": "QUORI-ADMIN",
+            "role": "ADMIN",
+            "color": "#00d9ff"
+        }
+    },
+    "system_info": {
+        "updated": "2026-02-02 15:07:38.303963",
+        "mode": "pro"
+    }
+}
